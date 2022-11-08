@@ -1,9 +1,76 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "drinks": [
+      {
+        "titulo": "Gin tropical Aperol Spritzer",
+        "preço": 31.9,
+        "descrição": "Aperol espumante e rodelas de laranja",
+        "id": "1"
+      },
+      {
+        "titulo": "Violeta",
+        "preço": 32.9,
+        "descrição": "Vodka, xarope de violeta e suco de abacaxi",
+        "id": "2"
+      },
+      {
+        "titulo": "Moscow Mule",
+        "preço": 34.9,
+        "descrição": "Vodka, citrícos, espuma de gengibre",
+        "id": "3"
+      },
+      {
+        "titulo": "Sex on the beach",
+        "preço": 27.9,
+        "descrição": "Vodka, licor de pêssego, suco de laranja, xarope de groselha, soda",
+        "id": "4"
+      },
+      {
+        "titulo": "Pina Colada",
+        "preço": 24.9,
+        "descrição": "Rum, suco de limão, xarope de açúcar, água gaseificada e muitas folhas de hortelã.",
+        "id": "5"
+      }
+    ],
+    "comidas": [
+      {
+        "titulo": "Chicken Finger",
+        "preço": 41.9,
+        "descrição": "Tiras longas de peito de frango empanadas, super crocantes. Servidas com honey mustard especial do Chef. É muito frango!",
+        "id": "1"
+      },
+      {
+        "titulo": "Sausage Brooks",
+        "preço": 49.9,
+        "descrição": "Linguiça grelhada coberta com uma quantidade exagerada de queijo e molho chimichurri especial. O sabor vai te deixar de queixo caído!",
+        "id": "2"
+      },
+      {
+        "titulo": "Modern Meat",
+        "preço": 55.9,
+        "descrição": "Carne assada desfiada com tempero especial, muuuuuuuito gorgonzola massaricado. Servida com massinha artesanal crocante. Sabor marcante, especial!",
+        "id": "3"
+      },
+      {
+        "titulo": "Fish and Chips",
+        "preço": 48.9,
+        "descrição": "Pedaços de peixe empanados e acompanhados de muiiiiiita hashtag#fries. Servido com molho tártaro do Chef. Está preparado para provar o Fish and Chips mais gostoso do mundo?",
+        "id": "4"
+      }
+    ],
+    "funcionarios": [
+      {
+        "nome": "Maria",
+        "idade": 26,
+        "email": "maria4223@gmail.com",
+        "bairro": "Bangu",
+        "id": "1"
+      },
+      {
+        "nome": "José",
+        "idade": 30,
+        "email": "josesilva64@gmail.com",
+        "bairro": "Campo Grande",
+        "id": "2"
+      }
+    ]
+  }
