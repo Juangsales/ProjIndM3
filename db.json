@@ -2,32 +2,32 @@
     "quartos": [
       {
         "titulo": "Quarto Twin Luxo",
-        "preço": 31.9,
-        "descrição": "Possui 17 m². Acomoda 2, 2 camas de solteiro e Wi-Fi grátis",
+        "preço": 168.8,
+        "descrição": "Possui 17 m². Acomoda até 2, 2 camas de solteiro e Wi-Fi grátis",
         "id": "1"
       },
       {
         "titulo": "Quarto Casal Luxo",
-        "preço": 32.9,
-        "descrição": "Possui 20 m². Acomoda 3, 1 cama de casal, Wi-Fi grátis e café da manhã incluído",
+        "preço": 176.5,
+        "descrição": "Possui 20 m². Acomoda até 3, 1 cama de casal, Wi-Fi grátis e café da manhã incluído",
         "id": "2"
       },
       {
         "titulo": "Quarto Twin SuperLuxo",
-        "preço": 34.9,
-        "descrição": "Possui 20 m². Acomoda 3. 2 camas de solteiro, Wi-Fi grátis, café da manhã incluído e estacionamento grátis sem manobrista",
+        "preço": 182.4,
+        "descrição": "Possui 20 m². Acomoda até 3. 2 camas de solteiro, Wi-Fi grátis, café da manhã incluído e estacionamento grátis sem manobrista",
         "id": "3"
       },
       {
         "titulo": "Quarto Casal SuperLuxo",
-        "preço": 27.9,
-        "descrição": "Possui 25 m². Acomoda 3, 1 cama Queen, Wi-Fi grátis, café da manhã incluído e estacionamento grátis sem manobrista",
+        "preço": 195.2,
+        "descrição": "Possui 25 m². Acomoda até 3, 1 cama Queen, Wi-Fi grátis, café da manhã incluído e estacionamento grátis sem manobrista",
         "id": "4"
       },
       {
         "titulo": "Quarto Familia SuperLuxo",
-        "preço": 24.9,
-        "descrição": "Possui 30 m². Acomoda 5, 5 camas de solteiro ou 1 cama de casal e 3 camas de solteiro, Wi-Fi grátis, café da manhã incluído e estacionamento grátis sem manobrista",
+        "preço": 220.6,
+        "descrição": "Possui 30 m². Acomoda até 5, 5 camas de solteiro ou 1 cama de casal e 3 camas de solteiro, Wi-Fi grátis, café da manhã incluído e estacionamento grátis sem manobrista",
         "id": "5"
       }
     ],
