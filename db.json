@@ -1,59 +1,63 @@
 {
-    "drinks": [
+    "quartos": [
       {
-        "titulo": "Gin tropical Aperol Spritzer",
+        "titulo": "Quarto Twin Luxo",
         "preço": 31.9,
         "descrição": "Aperol espumante e rodelas de laranja",
         "id": "1"
       },
       {
-        "titulo": "Violeta",
+        "titulo": "Quarto Casal Luxo",
         "preço": 32.9,
         "descrição": "Vodka, xarope de violeta e suco de abacaxi",
         "id": "2"
       },
       {
-        "titulo": "Moscow Mule",
+        "titulo": "Quarto Twin SuperLuxo",
         "preço": 34.9,
         "descrição": "Vodka, citrícos, espuma de gengibre",
         "id": "3"
       },
       {
-        "titulo": "Sex on the beach",
+        "titulo": "Quarto Casal SuperLuxo",
         "preço": 27.9,
         "descrição": "Vodka, licor de pêssego, suco de laranja, xarope de groselha, soda",
         "id": "4"
       },
       {
-        "titulo": "Pina Colada",
+        "titulo": "Quarto Familia SuperLuxo",
         "preço": 24.9,
         "descrição": "Rum, suco de limão, xarope de açúcar, água gaseificada e muitas folhas de hortelã.",
         "id": "5"
       }
     ],
-    "comidas": [
+    "clientes": [
       {
-        "titulo": "Chicken Finger",
-        "preço": 41.9,
-        "descrição": "Tiras longas de peito de frango empanadas, super crocantes. Servidas com honey mustard especial do Chef. É muito frango!",
+        "user": "JessVieira",
+        "endereco": "Campinas, SP",
+        "nome": "Jessica",
+        "sobrenome": "Vieira",
         "id": "1"
       },
       {
-        "titulo": "Sausage Brooks",
-        "preço": 49.9,
-        "descrição": "Linguiça grelhada coberta com uma quantidade exagerada de queijo e molho chimichurri especial. O sabor vai te deixar de queixo caído!",
+        "user": "LaLarte",
+        "endereco": "Florianopolis, SC",
+        "nome": "Lauro",
+        "sobrenome": "Laerte",
         "id": "2"
       },
       {
-        "titulo": "Modern Meat",
-        "preço": 55.9,
-        "descrição": "Carne assada desfiada com tempero especial, muuuuuuuito gorgonzola massaricado. Servida com massinha artesanal crocante. Sabor marcante, especial!",
+        "user": "AlaMorais",
+        "endereco": "Ilheus, BA",
+        "nome": "Alana",
+        "sobrenome": "Morais",
         "id": "3"
       },
       {
-        "titulo": "Fish and Chips",
-        "preço": 48.9,
-        "descrição": "Pedaços de peixe empanados e acompanhados de muiiiiiita hashtag#fries. Servido com molho tártaro do Chef. Está preparado para provar o Fish and Chips mais gostoso do mundo?",
+        "user": "MaAugusta ",
+        "endereco": "São Paulo, SP",
+        "nome": "Maria",
+        "sobrenome": "Augusta",
         "id": "4"
       }
     ],
@@ -63,14 +67,16 @@
         "idade": 26,
         "email": "maria4223@gmail.com",
         "bairro": "Bangu",
-        "id": "1"
+        "id": "1",
+        "profissao": "Copeira"
       },
       {
         "nome": "José",
         "idade": 30,
         "email": "josesilva64@gmail.com",
         "bairro": "Campo Grande",
-        "id": "2"
+        "id": "2",
+          "profissao": "Recepcionista"
       }
     ]
   }
